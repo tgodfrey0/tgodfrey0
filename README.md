@@ -1,4 +1,4 @@
-# Hello There, General Kenobi
+# Hello There :wave:
 
 :mortar_board:  -  I am an undergraduate student at the [University of Southampton](https://ecs.soton.ac.uk) studying MEng Computer Science
 
